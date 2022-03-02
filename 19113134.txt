@@ -1,0 +1,5 @@
+/sdcard/
+/sdcard/.sd.txt
+/sdcard/Movies
+/sdcard/Movies/Dolby Atmos Amaze.mp4
+/sdcard/Pictures
